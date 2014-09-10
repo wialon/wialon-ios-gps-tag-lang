@@ -5,14 +5,19 @@ To create a strings file manually, create a new file in TextEdit (or your prefer
 
 Example:
 Strings localized for English
+```  objc
 /* Menu item to make the current document plain text */
 "Make Plain Text" = "Make Plain Text";
 /* Menu item to make the current document rich text */
 "Make Rich Text" = "Make Rich Text";
 
+
+```
+
  Strings localized for German
+```  objc
 /* Menu item to make the current document plain text */
 "Make Plain Text" = "In reinen Text umwandeln";
 /* Menu item to make the current document rich text */
 "Make Rich Text" = "In formatierten Text umwandeln";
-
+```
