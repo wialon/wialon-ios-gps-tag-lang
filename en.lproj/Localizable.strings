@@ -1,0 +1,442 @@
+/* 
+  Localizable.strings
+  GPS Tag Pro
+
+  Created by Denis Strakh on 9.9.13.
+  Copyright (c) 2013 Alex Chernetsky. All rights reserved.
+*/
+
+"MB" = "MB";
+
+"KB" = "KB";
+
+"%.1fm" = "%.1f m";
+
+"%.1fkph" = "%.1f kph";
+
+"%@B" = "%@ B";
+
+"%@kph" = "%@ kph";
+
+"%@m" = "%@ m";
+
+"s" = "s";
+
+"%@?" = "%@?";
+
+"%dB" = "%d B";
+
+"%dkph" = "%d kph";
+
+"%dm" = "%d m";
+
+"%ds" = "%d s";
+
+"%d?" = "%d?";
+
+"%d%% (from %d%@ to %d%@)" = "%d%% (from %d %@ to %d %@)";
+
+"%d%% (from %d%@ to %.2f%@)" = "%d%% (from %d %@ to %.2f %@)";
+
+"%d%% (from %.2f%@ to %.2f%@)" = "%d%% (from %.2f %@ to %.2f %@)";
+
+"Forward (%d)" = "Forward (%d)";
+
+"Delete (%d)" = "Delete (%d)";
+
+"Accuracy" = "Accuracy";
+
+"Activity mode" = "Mode";
+
+"Altitude" = "Altitude";
+
+"Battery level" = "Battery level";
+
+"By default" = "By default";
+
+"Cancel" = "Cancel";
+
+"Change in course" = "Change in course";
+
+"Change in speed" = "Change in speed";
+
+"Load from camera roll" = "Load from camera roll";
+
+"Course" = "Course";
+
+"Current status" = "Current status";
+
+"Connected to server" = "Server connection";
+
+"Enable or disable filtration of\nmessages to be sent" = "Enable or disable filtration of\nmessages to be sent";
+
+"Enter password" = "Enter password";
+
+"Filtration of messages" = "Filtration of messages";
+
+"GPS connection" = "GPS connection";
+
+"GPS-Trace Orange" = "GPS-Trace Orange";
+
+"Google Hybrid" = "Google Hybrid";
+
+"Google Satellite" = "Google Satellite";
+
+"Google Streets" = "Google Streets";
+
+"Gurtam Maps" = "OpenStreetMap";
+
+"Image packet size" = "Image packet size";
+
+"Images" = "Images";
+
+"Include accuracy in each positional message" = "Include accuracy in each positional message";
+
+"Include advanched parameters in messages" = "Include advanched parameters in messages";
+
+"Include current battery level" = "Include current battery level";
+
+"Internet conntection" = "Internet connection";
+
+"Latest data" = "Latest data";
+
+"Latitude" = "Latitude";
+
+"Loading..." = "Loading...";
+
+"Location" = "Location";
+
+"Location determination" = "Location";
+
+"Location manager failed" = "Location manager failed";
+
+"Longitude" = "Longitude";
+
+"Main" = "Main";
+
+"Map" = "Map";
+
+"Max accuracy" = "Max accuracy";
+
+"Max speed" = "Max speed";
+
+"Messages" = "Messages";
+
+"Messages in the black box" = "Black box";
+
+"Messages (sent/lost)" = "Messages (sent/lost)";
+
+"Messages settings" = "Messages settings";
+
+"Min distance" = "Min distance";
+
+"Min time" = "Min time";
+
+"Boat, train, or plane" = "Boat, train, or plane";
+
+"New message: %@" = "New message: %@";
+
+"New message: %@..." = "New message: %@ ...";
+
+"OK" = "OK";
+
+"Other" = "Other";
+
+"Password" = "Password";
+
+"Password error." = "Password error.";
+
+"Password or UID error." = "Password or UID error.";
+
+"Pedestrian" = "Pedestrian";
+
+"Pull down to refresh..." = "Pull down to refresh...";
+
+"New message from server received." = "New message from server received.";
+
+"Release to load earlier messages..." = "Release to load earlier messages...";
+
+"Reset" = "Reset";
+
+"Restart service right now?" = "Restart service right now?";
+
+"Start/stop" = "Start/Stop";
+
+"Send" = "Send";
+
+"Server connection" = "Server connection";
+
+"Service started." = "Service started.";
+
+"Service stopped." = "Service stopped.";
+
+"Service status" = "Service status";
+
+"Settings" = "Settings";
+
+"Speed" = "Speed";
+
+"Statistics" = "Statistics";
+
+"Take a picture" = "Take a picture";
+
+"Text" = "Text";
+
+"Quality of resulting JPEG image" = "Quality of resulting JPEG image";
+
+"Time" = "Time";
+
+"To use a password, set it below and in unit properties in the tracking system" = "To use a password, set it below and in unit properties in the tracking system";
+
+"Total messages" = "Total messages";
+
+"Unit ID" = "Unit ID";
+
+"Unit login to server." = "Unit connected to server.";
+
+"Unit settings" = "Unit settings";
+
+"Unit unique ID" = "Unit unique ID";
+
+"Unknown" = "Unknown";
+
+"Add parameters" = "Add parameters";
+
+"Car" = "Car";
+
+"Wialon Hosting" = "Wialon Hosting";
+
+"Wialon Kit" = "Wialon Kit";
+
+"Yes" = "Yes";
+
+"GPS Tag does not have access to your geolocation data." = "%@ does not have access to your geolocation data.";
+
+"No more messages." = "No more messages.";
+
+"%d messages loaded from history." = "%d messages loaded from history.";
+
+"Message queued for sending." = "Message queued for sending.";
+
+"Host" = "Host";
+
+"Port" = "Port";
+
+"Wrong server address." = "Wrong server address.";
+
+"Help" = "Help";
+
+"Lost connection to server." = "Lost connection to server.";
+
+"Notifications" = "Notifications";
+
+"Enable notifications on the lock screen" = "Enable notifications on the lock screen";
+
+"Messages preview" = "Messages preview";
+
+"Show incoming messages" = "Show incoming messages";
+
+"Events" = "Events";
+
+"Show notifications about server events and errors" = "Show notifications about server events and errors";
+
+"Notification Center" = "Notification center";
+
+"Clear map cache" = "Clear map cache";
+
+"Clear map cache (%.1f) MB" = "Clear map cache (%.1f MB)";
+
+"Term of use" = "Term of use";
+
+"At your request, I\'m sending you the log file for the GPS Tag application." = "At your request, I\'m sending you the log file for the %@ application.";
+
+"Send log files" = "Send log files";
+
+"Unable sending log files. Check settings of your standard mail client." = "Unable sending log files. Check settings of your standard mail client.";
+
+"It makes sense to send log files only when there are problems with the app." = "It makes sense to send log files only when there are problems with the app.";
+
+"Custom status" = "Custom status";
+
+"Show on map" = "Show on map";
+
+/* NEW v1.1*/
+
+"Custom status \"%@\" with value \"%@\"\nSent parameters:" = "Custom status \"%@\" with value \"%@\"\nSent parameters:";
+
+"Sending custom parameters" = "Custom status";
+
+"New message: position." = "New message: position.";
+
+"Custom status" = "Custom status";
+
+"Enter name" = "Enter name";
+
+"Name" = "Name";
+
+"Values" = "Values";
+
+"Message format" = "Message format";
+
+"Always send last" = "Always send last";
+
+"Delete" = "Delete";
+
+"Configure the list of values" = "Configure the list of values";
+
+"Numeric value" = "Numeric value";
+
+"Text value" = "Text value";
+
+"Both values" = "Both values";
+
+"Send last selected value in every positional message" = "Send last selected value in every positional message";
+
+"Clean black box (%zd)" = "Clear black box (%zd)";
+
+"Clean black box" = "Clear black box";
+
+"Available" = "Available";
+
+"Busy" = "Busy";
+
+"Away" = "Away";
+
+"Alarm message has been queued for sending." = "Alarm message has been queued for sending.";
+
+"Custom status has been queued for sending." = "Custom status has been queued for sending.";
+
+"CustomStatus" = "MyStatus";
+
+"Delete (%d)" = "Delete (%d)";
+
+"Enter new value" = "Enter new value";
+
+"NEW_VERSION" = "The new version of the app requires reconfiguration of your unit in the tracking system. Please, go to the Unit Properties dialog and set the device type to \"GPS Tag Pro\".";
+
+"EMPTY_PARAMETERS" = "No available custom statuses. Configure a status.";
+
+"EMPTY_VALUES" = "No available values. Add values to this status.";
+
+"Route not found." = "Route not found.";
+
+"Too many points." = "Too many points.";
+
+"Server unavailable, please try again later." = "Server unavailable, please try again later.";
+
+"Inappropriate request." = "Inappropriate request.";
+
+"No internet connection." = "No internet connection.";
+
+"Remove all messages" = "Remove all messages";
+
+"mph" = "mph";
+
+"ft" = "ft";
+
+"km" = "km";
+
+"kph" = "kph";
+
+"m" = "m";
+
+"Unit Systems" = "Metrics";
+
+"Automatic" = "Automatic";
+
+"Metric" = "Kilometers";
+
+"Imperial" = "Miles";
+
+"Continue" = "Continue";
+
+"There are unsaved values. Continue anyway?" = "There are unsaved values. Continue anyway?";
+
+"Target Location" = "Target Location";
+
+"Today" = "Today";
+
+"Yesterday" = "Yesterday";
+
+"Week" = "Week";
+
+"Track" = "Track";
+
+"Clear track" = "Clear track";
+
+"No message for selected interval" = "No message for selected interval";
+/* ORANGE */
+
+"No" = "No";
+
+"Yes" = "Yes";
+
+"Login" = "Login";
+
+"Log out" = "Log out (%@)";
+
+"Sign in" = "Connect";
+
+"Forgot password?" = "Forgot password?";
+
+"Generate random" = "Generate random";
+
+"Skip" = "Skip >";
+
+"Back" = "Back";
+
+"E-mail" = "E-mail";
+
+"Please wait..." = "Please wait...";
+
+"Registeration >" = "Create account >";
+
+"Registeration" = "Create account";
+
+"Reset password" = "Reset password";
+
+"WRONG_INTERNET" = "No Internet connection";
+
+"WRONG_SERVER" = "Server unavailable";
+
+"WRONG_LOGIN" = "Wrong login";
+
+"WRONG_IMEI" = "UID must be at least 8 characters long";
+
+"WRONG_PWD" = "Wrong password";
+
+"WRONG_EMAIL" = "Wrong e-mail";
+
+"INVALID_INPUT" = "Invalid input";
+
+"REPLACE_UNIT" = "Registered unit has different settings than this device. Do you want to replace them?";
+
+"RESET_PWD_TEXT" = "Please, enter your login name and e-mail.\nA password reset link will be sent to you.";
+
+"UNIT_ALREADY_EXISTS" = "Unit with such unique UID is already registered in GPS-Trace Orange";
+
+"NAME_ALREADY_EXISTS" = "User with given name or e-mail already exists.";
+
+"WRONG_LOGIN_PASSWORD" = "Wrong login or password";
+
+"INVALID_USER" = "User with given login and e-mail does not exist.";
+
+"RESET_PASSWORD" = "E-mail has been sent to %@.";
+
+"WRONG_LOGIN_EMAIL" = "User with given login and e-mail does not exists.";
+
+"SUCCESS_REGISTRATION" = "You have successfully registered on GPS-Trace Orange. Check your e-mail for account details.";
+
+"OVERRIDE_UNIT_DIALOG_TEXT" = "You are not allowed to create more units than you already have. Replace any from existing units with the new one?";
+
+"OK" = "OK";
+
+"CANCEL" = "Cancel";
+
+"NAME" = "Name:";
+
+"UDID" = "Unique ID:";
+
+"DEVICE_TYPE" = "Device type:";
+
+/* END ORANGE*/

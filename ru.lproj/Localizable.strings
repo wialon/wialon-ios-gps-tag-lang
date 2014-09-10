@@ -1,0 +1,437 @@
+/* 
+  Localizable.strings
+  GPS Tag Pro
+
+  Created by Denis Strakh on 9.9.13.
+  Copyright (c) 2013 Alex Chernetsky. All rights reserved.
+*/
+
+"MB" = "Mб";
+
+"KB" = "Kб";
+
+"%.1fm" = "%.1f м";
+
+"%.1fkph" = "%.1f км/ч";
+
+"%@B" = "%@ Б";
+
+"%@kph" = "%@ км/ч";
+
+"%@m" = "%@ м";
+
+"s" = "с";
+
+"%@?" = "%@?";
+
+"%dB" = "%d Б";
+
+"%dkph" = "%d км/ч";
+
+"%dm" = "%d м";
+
+"%ds" = "%d с";
+
+"%d?" = "%d?";
+
+"%d%% (from %d%@ to %d%@)" = "%d%% (от %d %@ до %d %@)";
+
+"%d%% (from %d%@ to %.2f%@)" = "%d%% (от %d %@ до %.2f %@)";
+
+"%d%% (from %.2f%@ to %.2f%@)" = "%d%% (от %.2f %@ до %.2f %@)";
+
+"Delete (%d)" = "Delete (%d)";
+
+"Accuracy" = "Точность";
+
+"Activity mode" = "Режим";
+
+"Altitude" = "Высота";
+
+"Battery level" = "Заряд батареи";
+
+"By default" = "По умолчанию";
+
+"Cancel" = "Отмена";
+
+"Change in course" = "Изменение курса";
+
+"Change in speed" = "Перепад скорости";
+
+"Connected to server" = "Подключение к серверу";
+
+"Load from camera roll" = "Выбрать из готовых";
+
+"Course" = "Курс";
+
+"Current status" = "Текущий статус";
+
+"Enable or disable filtration of\nmessages to be sent" = "Настройки фильтрации сообщений\nдля отправки"; /* А оно надо? */
+
+"Enter password" = "Введите пароль";
+
+"Filtration of messages" = "Фильтрация сообщений";
+
+"GPS connection" = "GPS-соединение";
+
+"GPS-Trace Orange" = "GPS-Trace Orange";
+
+"Google Hybrid" = "Google Hybrid";
+
+"Google Satellite" = "Google Satellite";
+
+"Google Streets" = "Google Streets";
+
+"Gurtam Maps" = "OpenStreetMap";
+
+"Image packet size" = "Размер пакета изображения";
+
+"Images" = "Изображения";
+
+"Include accuracy in each positional message" = "Включить точность в позиционные сообщения";
+
+"Include advanched parameters in messages" = "Включить дополнительные параметры в содержимое сообщений";
+
+"Include current battery level" = "Включить уровень заряда батареи";
+
+"Internet conntection" = "Подключение к интернету";
+
+"Latest data" = "Последние данные";
+
+"Latitude" = "Широта";
+
+"Loading..." = "Загрузка...";
+
+"Location" = "Местоположение";
+
+"Location determination" = "Положение";
+
+"Location manager failed" = "Не удалось определить местоположение";
+
+"Longitude" = "Долгота";
+
+"Main" = "Главная";
+
+"Map" = "Карта";
+
+"Max accuracy" = "Макс. погрешность";
+
+"Max speed" = "Макс. скорость";
+
+"Messages" = "Сообщения";
+
+"Messages in the black box" = "Черный ящик";
+
+"Messages (sent/lost)" = "Сообщений (отправлено/потеряно)";
+
+"Messages settings" = "Настройки сообщений";
+
+"Min distance" = "Мин. расстояние";
+
+"Min time" = "Мин. интервал времени";
+
+"Boat, train, or plane" = "Корабль, поезд или самолет";
+
+"New message: %@" = "Новое сообщение: %@";
+
+"New message: %@..." = "Новое сообщение: %@ ...";
+
+"OK" = "OK";
+
+"Other" = "Прочие";
+
+"Password" = "Пароль";
+
+"Password error." = "Неверный пароль.";
+
+"Password or UID error." = "Неверный пароль или UID объекта.";
+
+"Pedestrian" = "Пешеход";
+
+"Pull down to refresh..." = "Потяните вниз, чтобы обновить...";
+
+"New message from server received." = "Получено новое сообщение от сервера.";
+
+"Release to load earlier messages..." = "Отпустите, чтобы загрузить более ранние сообщения...";
+
+"Reset" = "Сброс";
+
+"Restart service right now?" = "Перезапустить сервис сейчас?";
+
+"Send" = "Отпр.";
+
+"Server connection" = "Подключение к серверу";
+
+"Service started." = "Сервис запущен.";
+
+"Start/stop" = "Запуск/Остановка";
+
+"Service stopped." = "Сервис остановлен.";
+
+"Service status" = "Статус сервиса";
+
+"Settings" = "Настройки";
+
+"Speed" = "Скорость";
+
+"Statistics" = "Статистика";
+
+"Take a picture" = "Сделать снимок";
+
+"Text" = "Текстовые";
+
+"Quality of resulting JPEG image" = "Качество конечного JPEG-изображения";
+
+"Time" = "Время";
+
+"To use a password, set it below and in unit properties in the tracking system" = "Если необходимо использовать пароль, введите его здесь, а также в свойствах объекта в системе мониторинга";
+
+"Total messages" = "Всего сообщений";
+
+"Unit ID" = "ID объекта";
+
+"Unit login to server." = "Объект подключился к серверу.";
+
+"Unit settings" = "Настройки объекта";
+
+"Unit unique ID" = "Уникальный ID объекта";
+
+"Unknown" = "Неизвестно";
+
+"Add parameters" = "Расширенные параметры";
+
+"Car" = "Автомобиль";
+
+"Wialon Hosting" = "Wialon Hosting";
+
+"Wialon Kit" = "Wialon Kit";
+
+"Yes" = "Да";
+
+"GPS Tag does not have access to your geolocation data." = "%@ не имеет доступа к геолокационной информации.";
+
+"No more messages." = "Больше нет сообщений.";
+
+"%d messages loaded from history." = "%d сообщений загружно из истории.";
+
+"Message queued for sending." = "Сообщение поставлено в очередь на отправку.";
+
+"Host" = "Хост";
+
+"Port" = "Порт";
+
+"Wrong server address." = "Неверный адрес сервера.";
+
+"Help" = "Справка";
+
+"Lost connection to server." = "Потеряна связь с сервером.";
+
+"Notifications" = "Уведомления";
+
+"Enable notifications on the lock screen" = "Отображать всплывающие уведомления на экране блокировки";
+
+"Messages preview" = "Сообщения";
+
+"Show incoming messages" = "Показывать входящие сообщения";
+
+"Events" = "События";
+
+"Show notifications about server events and errors" = "Уведомления об ошибках и событиях, связанных с сервером";
+
+"Notification Center" = "Центр уведомлений";
+
+"Clear map cache" = "Стереть карты";
+
+"Clear map cache (%.1f) MB" = "Стереть карты (%.1f Мб)";
+
+"Term of use" = "Условия использования";
+
+"At your request, I\'m sending you the log file for the GPS Tag application." = "По вашему запросу высылаю лог-файлы приложения %@.";
+
+"Send log files" = "Отправить логи";
+
+"Unable sending log files. Check settings of your standard mail client." = "Не удалось отправить логи. Проверьте настройки встроенного почтового клиента (Mail).";
+
+"It makes sense to send log files only when there are problems with the app." = "Рекомендуется отправлять лог-файлы только в случае наличия проблем с приложением.";
+
+"Custom status" = "Custom status";
+
+"Show on map" = "Показать на карте";
+
+/* NEW v1.1*/
+
+"Custom status \"%@\" with value \"%@\"\nSent parameters:" = "Состояние \"%@\" со значением \"%@\"\nОтправленные параметры:";
+
+"Sending custom parameters" = "Отправка состояния";
+
+"New message: positinal." = "Новое сообщение: позиция.";
+
+"Custom status" = "Произвольное состояние";
+
+"Enter name" = "Введите имя";
+
+"Name" = "Имя";
+
+"Values" = "Значения";
+
+"Message format" = "Формат сообщения";
+
+"Always send last" = "Дублировать последнее";
+
+"Delete" = "Удалить";
+
+"Configure the list of values" = "Настроить список значений";
+
+"Numeric value" = "Числовое значение";
+
+"Text value" = "Текстовове значение";
+
+"Both values" = "Оба значения";
+
+"Send last selected value in every positional message" = "Отправлять последнее значение в каждом позиционном сообщении";
+
+"Clean black box (%zd)" = "Очистить черный ящик (%zd)";
+
+"Clean black box" = "Очистить черный ящик";
+
+"Available" = "Свободен";
+
+"Busy" = "Занят";
+
+"Away" = "Нет на месте";
+
+"Alarm message has been queued for sending." = "Тревожное сообщение поставлено в очередь на отправку.";
+
+"Custom status has been queued for sending." = "Состояние поставлено в очередь на отправку.";
+
+"CustomStatus" = "Мой статус";
+
+"Delete (%d)" = "Удалить (%d)";
+
+"Enter new value" = "Новое значение";
+
+"NEW_VERSION" = "Для работы с новой версией приложения требуется изменить настройки Вашего объекта в системе мониторинга. Для этого откройте диалог свойств объекта и выберите тип устройства \"GPS Tag Pro\".";
+
+"EMPTY_PARAMETERS" = "Нет доступных произвольных состояний.";
+
+"EMPTY_VALUES" = "Выбранное состояние не имеет доступных значений.";
+
+"Route not found." = "Маршрут не найден.";
+
+"Too many points." = "Слишком много адресов.";
+
+"Server unavailable, please try again later." = "Сервер недоступен. Повторите попытку позже.";
+
+"Inappropriate request." = "Недопустимый запрос.";
+
+"No internet connection." = "Нет интернет соединения.";
+
+"Remove all messages" = "Удалить все сообщения";
+
+"mph" = "ми/ч";
+
+"ft" = "фт";
+
+"km" = "км";
+
+"kph" = "км/ч";
+
+"m" = "м";
+
+"Unit Systems" = "Единицы измерения";
+
+"Automatic" = "Автоматически";
+
+"Metric" = "Километры";
+
+"Imperial" = "Мили";
+
+"Continue" = "Продолжить";
+
+"There are unsaved values. Continue anyway?" = "Имеются несохраненные значения. Все равно продолжить?";
+
+"Target Location" = "Целевая геопозиция";
+
+"Today" = "Сегодня";
+
+"Yesterday" = "Вчера";
+
+"Week" = "Неделя";
+
+"Track" = "Трек";
+
+"Clear track" = "Очистить трек";
+"No message for selected interval" = "Нет сообщений за выбранный период";
+/* ORANGE */
+
+"No" = "Нет";
+
+"Yes" = "Да";
+
+"Login" = "Логин";
+
+"Log out" = "Выйти (%@)";
+
+"Sign in" = "Подключить";
+
+"Forgot password?" = "Забыли пароль?";
+
+"Generate random" = "Случайное значение";
+
+"Skip" = "Пропустить >";
+
+"Back" = "Назад";
+
+"E-mail" = "E-mail";
+
+"Please wait..." = "Пожалуйста, подождите...";
+
+"Registeration >" = "Регистрация >";
+
+"Registeration" = "Регистрация";
+
+"Reset password" = "Сбросить пароль";
+
+"WRONG_INTERNET" = "Отсутствует интернет-соединение";
+
+"WRONG_SERVER" = "Сервер недоступен";
+
+"WRONG_LOGIN" = "Неверный логин";
+
+"WRONG_IMEI" = "UID должен содержать не менее 8 символов";
+
+"WRONG_PWD" = "Неверный пароль";
+
+"WRONG_EMAIL" = "Неверный e-mail";
+
+"INVALID_INPUT" = "Введены неверные данные";
+
+"REPLACE_UNIT" = "У зарегистрированного объекта другие настройки, чем у данного устройства. Желаете заменить их?";
+
+"RESET_PWD_TEXT" = "Пожалуйста, введите Ваш логин и адрес\nэлектронной почты. Вам будет отправлена\nссылка на страницу сброса пароля.";
+
+"UNIT_ALREADY_EXISTS" = "Объект с таким уникальным UID уже зарегистрирован на GPS-Trace Orange";
+
+"NAME_ALREADY_EXISTS" = "Пользователь с таким именем или e-mail уже существует.";
+
+"WRONG_LOGIN_PASSWORD" = "Неверный логин или пароль";
+
+"INVALID_USER" = "Пользователя с таким именем и адресом электронной почты не существует.";
+
+"RESET_PASSWORD" = "Письмо было отправлено на %@.";
+
+"WRONG_LOGIN_EMAIL" = "Пользователя с таким именем и адресом электронной почты не существует.";
+
+"SUCCESS_REGISTRATION" = "Вы успешно зарегистрировались в системе GPS-Trace Orange. На Ваш адрес электронной почты отправлено письмо с информацией о созданной учетной записи.";
+
+"OVERRIDE_UNIT_DIALOG_TEXT" = "Достигнуто максимальное разрешенное количество объектов. Заменить какой-то из существующих объектов новым?";
+
+"CANCEL" = "Отмена";
+
+"NAME" = "Имя:";
+
+"UDID" = "Уникальный ID:";
+
+"DEVICE_TYPE" = "Тип устройства:";
+
+/* END ORANGE*/
